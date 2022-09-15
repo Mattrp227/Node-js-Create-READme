@@ -1,15 +1,15 @@
-{
-  "name": "static-site",
+j{
+  "name": "node js Create Readme",
   "version": "1.0.0",
-  "description": "",
+  "description": "make readme using node js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Matthew Peck",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.4"
   }
 }
 Footer
