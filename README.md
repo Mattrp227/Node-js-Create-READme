@@ -18,7 +18,7 @@ Back-end node.js repository to create a ReadMe file with various prompts
 * Used npm i inquirer@8.2.4
 
 # Usage 
-Video
+[video](https://drive.google.com/file/d/1P9hYK7q6i_NgxujqJ8IibtNhWDpNdRfa/view)
 
 # Questions 
 Email me if you have questions about the project
