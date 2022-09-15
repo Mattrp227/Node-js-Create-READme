@@ -1,8 +1,8 @@
 # Node-js-Create-READme
-**##Description**
+**## Description **
 Back-end node.js repository to create a ReadMe file with various prompts
 
-**##Table of Contents**
+**## Table of Contents **
 
 Description
 
@@ -14,15 +14,15 @@ Questions
 
 License
 
-**#Installation**
-**Used npm i inquirer@8.2.4
+**# Installation **
+** Used npm i inquirer@8.2.4
 
-#Usage**
+# Usage **
 Video
 
-**#Questions**
+**# Questions **
 Email me if you have questions about the project
 
-**#License**
+**# License **
 Licensed under MIT
 
